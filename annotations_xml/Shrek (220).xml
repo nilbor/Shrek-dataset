@@ -1,0 +1,1 @@
+<annotations><filename>Shrek (220).JPEG</filename><folder>images</folder><size><width>638</width><height>479</height><depth>3</depth></size><object><name>Shrek</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>190.0</xmin><ymin>73.99999999999997</ymin><xmax>523.0</xmax><ymax>452.9999999999999</ymax></bndbox></object></annotations>

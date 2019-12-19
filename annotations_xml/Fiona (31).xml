@@ -1,0 +1,1 @@
+<annotations><filename>Fiona (31).JPEG</filename><folder>images</folder><size><width>600</width><height>360</height><depth>3</depth></size><object><name>Fiona</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>14.000000000000057</xmin><ymin>28.0</ymin><xmax>595.0</xmax><ymax>337.0</ymax></bndbox></object></annotations>

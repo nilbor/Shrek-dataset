@@ -1,0 +1,1 @@
+<annotations><filename>Donkey (7).JPEG</filename><folder>images</folder><size><width>130</width><height>236</height><depth>3</depth></size><object><name>Donkey</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>18.000000000000014</xmin><ymin>5.0</ymin><xmax>122.00000000000001</xmax><ymax>232.0</ymax></bndbox></object></annotations>

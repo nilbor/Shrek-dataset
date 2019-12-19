@@ -1,0 +1,1 @@
+<annotations><filename>Fiona (116).JPEG</filename><folder>images</folder><size><width>1000</width><height>640</height><depth>3</depth></size><object><name>Shrek</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>460.0</xmin><ymin>37.0</ymin><xmax>997.0</xmax><ymax>640.0</ymax></bndbox></object></annotations>

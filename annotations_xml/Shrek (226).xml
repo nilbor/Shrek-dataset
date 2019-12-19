@@ -1,0 +1,1 @@
+<annotations><filename>Shrek (226).JPEG</filename><folder>images</folder><size><width>760</width><height>760</height><depth>3</depth></size><object><name>Fiona</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>53.99999999999994</xmin><ymin>6.0</ymin><xmax>725.0</xmax><ymax>747.0</ymax></bndbox></object></annotations>
