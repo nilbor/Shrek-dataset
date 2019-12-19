@@ -11,15 +11,15 @@
         "no_object_scale" : 	1.0
     },
     "pretrained" : {
-        "full":   				"/content/Yolo-digit-detector/raccoon/model.h5"
+        "full":   				""
     },
     "train" : {
         "actual_epoch":         20,
-        "train_image_folder":   "/content/Lego-dataset/images",
-        "train_annot_folder":   "/content/Lego-dataset/annotations_xml",
+        "train_image_folder":   "/content/Shrek-dataset/images",
+        "train_annot_folder":   "/content/Shrek-dataset/annotations_xml",
         "train_times":          2,
-        "valid_image_folder":   "/content/Lego-dataset/testing_images",
-        "valid_annot_folder":   "/content/Lego-dataset/testing_annotations_xml",
+        "valid_image_folder":   "/content/Shrek-dataset/testing_images",
+        "valid_annot_folder":   "/content/Shrek-dataset/testing_annotations_xml",
         "valid_times":          2,
         "batch_size":           4,
         "learning_rate":        1e-4,
